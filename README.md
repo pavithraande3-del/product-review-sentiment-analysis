@@ -28,6 +28,10 @@ The balanced Logistic Regression model achieved approximately 87.08% test accura
 - Reviews by product category
 - Sentiment summary cards
 
+** Project Files**
+Product_Review_Sentiment_Analysis.ipynb — model training and analysis
+product review sentiment analysis.pbix — Power BI dashboard
+
 ## Dataset
 Datafiniti Consumer Reviews of Amazon Products (May 2019), sourced from Kaggle. Refer to the original dataset page for licensing and sharing terms.
 
