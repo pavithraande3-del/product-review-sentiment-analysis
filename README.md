@@ -29,7 +29,9 @@ The balanced Logistic Regression model achieved approximately 87.08% test accura
 - Sentiment summary cards
 
 ** Project Files**
+
 Product_Review_Sentiment_Analysis.ipynb — model training and analysis
+
 product review sentiment analysis.pbix — Power BI dashboard
 
 ## Dataset
