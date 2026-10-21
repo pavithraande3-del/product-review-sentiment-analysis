@@ -34,8 +34,14 @@ Product_Review_Sentiment_Analysis.ipynb — model training and analysis
 
 product review sentiment analysis.pbix — Power BI dashboard
 
+
 ## Dataset
-Datafiniti Consumer Reviews of Amazon Products (May 2019), sourced from Kaggle. Refer to the original dataset page for licensing and sharing terms.
+
+This project uses the **Datafiniti Consumer Reviews of Amazon Products** dataset from Kaggle.
+
+- **Source:** [Kaggle – Datafiniti Amazon Consumer Reviews](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products)
+- **Processing:** Cleaned review text and converted product ratings into Positive, Neutral, and Negative sentiment labels.
+- **Output:** Sentiment predictions and visualizations generated using Python, NLP, and Machine Learning.
 
 ## Author
 Pavithra Ande (3rd year B.Tech Data Science student)
